@@ -1,0 +1,6 @@
+[submodule "Lead-Generation-client"]
+	path = Lead-Generation-client
+	url = https://github.com/Rupeshchand/Lead-Generation-client.git
+[submodule "Lead-Generation-server"]
+	path = Lead-Generation-server
+	url = https://github.com/Rupeshchand/Lead-Generation-server.git
